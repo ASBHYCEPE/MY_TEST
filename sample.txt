@@ -6,3 +6,4 @@ Toyota
 Volvo
 Japan
 Cat
+Samsung
